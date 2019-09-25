@@ -1,3 +1,8 @@
+<h3>
+  Information
+</h3>
+This branch contains custom changes for my bot. These are mainly cosmetic changes for the time being.
+
 <h1 align="center">
   <br>
   <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="Red - Discord Bot"></a>
